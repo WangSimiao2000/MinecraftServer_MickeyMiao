@@ -1,0 +1,293 @@
+[09:11:46] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:11:46] [Server thread/INFO]: Loading properties
+[09:11:46] [Server thread/INFO]: Default game type: SURVIVAL
+[09:11:46] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[09:11:47] [Server thread/INFO]: Debug logging is disabled
+[09:11:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:11:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:11:47] [Server thread/INFO]: Generating keypair
+[09:11:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:11:47] [Server thread/INFO]: Using epoll channel type
+[09:11:47] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:11:47] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.10
+[09:11:47] [Server thread/INFO]: [RichAutoMessage] Loading RichAutoMessage v1.3.7
+[09:11:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:11:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:11:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:11:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:11:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:11:47] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:11:47] [Server thread/INFO]: Preparing level "world"
+[09:11:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:11:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:11:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:11:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:11:48] [Server thread/INFO]: Random Lighting Updates: false
+[09:11:48] [Server thread/INFO]: Structure Info Saving: true
+[09:11:48] [Server thread/INFO]: Mob Spawn Range: 4
+[09:11:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:11:48] [Server thread/INFO]: Max TNT Explosions: 100
+[09:11:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:11:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:11:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:11:48] [Server thread/INFO]: View Distance: 10
+[09:11:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:11:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:11:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:11:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:11:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:11:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:11:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:11:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:11:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:11:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:11:48] [Server thread/INFO]: Random Lighting Updates: false
+[09:11:48] [Server thread/INFO]: Structure Info Saving: true
+[09:11:48] [Server thread/INFO]: Mob Spawn Range: 4
+[09:11:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:11:48] [Server thread/INFO]: Max TNT Explosions: 100
+[09:11:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:11:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:11:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:11:48] [Server thread/INFO]: View Distance: 10
+[09:11:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:11:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:11:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:11:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:11:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:11:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:11:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:11:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[09:11:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:11:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:11:49] [Server thread/INFO]: Random Lighting Updates: false
+[09:11:49] [Server thread/INFO]: Structure Info Saving: true
+[09:11:49] [Server thread/INFO]: Mob Spawn Range: 4
+[09:11:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[09:11:49] [Server thread/INFO]: Max TNT Explosions: 100
+[09:11:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:11:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:11:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:11:49] [Server thread/INFO]: View Distance: 10
+[09:11:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:11:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:11:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:11:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:11:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:11:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4571138623334996365)
+[09:11:50] [Server thread/INFO]: Preparing spawn area: 1%
+[09:11:51] [Server thread/INFO]: Preparing spawn area: 28%
+[09:11:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4571138623334996365)
+[09:11:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4571138623334996365)
+[09:11:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.10
+[09:11:52] [Server thread/INFO]: [SkinsRestorer] Using PaperSkinRefresher
+[09:11:52] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_12_R1, using PaperSkinRefresher.
+[09:11:52] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[09:11:58] [Server thread/INFO]: [RichAutoMessage] Enabling RichAutoMessage v1.3.7
+[09:11:58] [Server thread/INFO]: [公告插件] 由 Fabian
+[09:11:58] [Server thread/INFO]: [公告插件] 插件版本: 1.3.8
+[09:11:58] [Server thread/INFO]: [公告插件] 激活
+[09:11:58] [Server thread/INFO]: Done (11.067s)! For help, type "help" or "?"
+[09:11:59] [Server thread/INFO]: Timings Reset
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer] ----------------------------------------------
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     +==================+
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     |------------------|
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     +==================+
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer] ----------------------------------------------
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     Current version: 14.1.10
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer]     This is the latest version!
+[09:11:59] [Craft Scheduler Thread - 2/INFO]: [SkinsRestorer] ----------------------------------------------
+[09:12:14] [User Authenticator #1/INFO]: UUID of player Wang_SiMiao is 84085272-5eab-3a81-adfc-47ac4d50662d
+[09:12:14] [Server thread/INFO]: Wang_SiMiao[/171.88.70.214:3406] logged in with entity id 116 at ([world]-233.28481603954648, 64.0, 249.82415251690736)
+[09:12:19] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:12:31] [Server thread/INFO]: Wang_SiMiao issued server command: /gamemode creative
+[09:12:32] [Server thread/INFO]: [Wang_SiMiao: Set own game mode to Creative Mode]
+[09:12:49] [Server thread/INFO]: Wang_SiMiao issued server command: /kill
+[09:12:49] [Server thread/INFO]: Wang_SiMiao fell out of the world
+[09:12:49] [Server thread/INFO]: [Wang_SiMiao: Killed Wang_SiMiao]
+[09:13:26] [Server thread/INFO]: Wang_SiMiao has made the advancement [Ice Bucket Challenge]
+[09:14:19] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:16:20] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:18:20] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:20:20] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:21:45] [Server thread/INFO]: Wang_SiMiao issued server command: /kill
+[09:21:45] [Server thread/INFO]: Wang_SiMiao fell out of the world
+[09:21:45] [Server thread/INFO]: [Wang_SiMiao: Killed Wang_SiMiao]
+[09:21:58] [Server thread/INFO]: Wang_SiMiao lost connection: Disconnected
+[09:21:58] [Server thread/INFO]: Wang_SiMiao left the game
+[09:22:20] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:24:20] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:26:20] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:28:20] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:30:20] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:32:20] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:34:20] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:36:20] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:38:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:40:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:42:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:44:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:46:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:48:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:50:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:52:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[09:54:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[09:56:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[09:58:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:00:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:02:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:04:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:06:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:08:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:10:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:12:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:14:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:16:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:18:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:20:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:22:21] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:24:21] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:26:21] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:28:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:30:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:32:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:34:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:36:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:38:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:40:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:42:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:44:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:46:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:48:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:50:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:52:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[10:54:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[10:56:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[10:58:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:00:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:02:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:04:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:06:22] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:08:22] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:10:22] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:12:23] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:14:23] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:16:23] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:18:23] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:20:23] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:22:23] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:24:23] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:26:23] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:28:23] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:30:23] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:32:23] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:34:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:36:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:38:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:40:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:42:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:44:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:46:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:48:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:50:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:52:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[11:54:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[11:56:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[11:58:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:00:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:02:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:04:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:06:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:08:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:10:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:12:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:14:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:16:24] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:18:24] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:20:24] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:22:25] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:24:25] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:26:25] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:28:25] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:30:25] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:32:18] [User Authenticator #2/INFO]: UUID of player Wang_SiMiao is 84085272-5eab-3a81-adfc-47ac4d50662d
+[12:32:18] [Server thread/INFO]: Wang_SiMiao[/171.88.70.214:3980] logged in with entity id 523 at ([world]-221.3956690908312, 64.0625, 252.17002306753102)
+[12:32:25] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:32:33] [Server thread/INFO]: Wang_SiMiao issued server command: /gamemode creative
+[12:32:33] [Server thread/INFO]: [Wang_SiMiao: Set own game mode to Creative Mode]
+[12:34:25] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:35:45] [Server thread/INFO]: Wang_SiMiao issued server command: /spawnpoint
+[12:35:45] [Server thread/INFO]: [Wang_SiMiao: Set Wang_SiMiao's spawn point to (-226, 63, 228)]
+[12:36:23] [Server thread/INFO]: Wang_SiMiao issued server command: /kill
+[12:36:23] [Server thread/INFO]: Wang_SiMiao fell out of the world
+[12:36:23] [Server thread/INFO]: [Wang_SiMiao: Killed Wang_SiMiao]
+[12:36:25] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:38:25] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:40:25] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:41:21] [Server thread/INFO]: Wang_SiMiao lost connection: Disconnected
+[12:41:21] [Server thread/INFO]: Wang_SiMiao left the game
+[12:42:26] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:43:20] [User Authenticator #3/INFO]: UUID of player Wang_SiMiao is 84085272-5eab-3a81-adfc-47ac4d50662d
+[12:43:20] [Server thread/INFO]: Wang_SiMiao[/171.88.70.214:4311] logged in with entity id 1187 at ([world]-228.54405563158969, 63.0, 214.86953211258012)
+[12:43:32] [Server thread/INFO]: Wang_SiMiao issued server command: /gamemode creative
+[12:43:32] [Server thread/INFO]: [Wang_SiMiao: Set own game mode to Creative Mode]
+[12:44:26] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:46:26] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:48:26] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:50:26] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:52:26] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[12:54:26] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[12:56:26] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[12:56:45] [Server thread/INFO]: Wang_SiMiao lost connection: Timed out
+[12:56:45] [Server thread/INFO]: Wang_SiMiao left the game
+[12:58:26] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[13:00:27] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[13:02:27] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[13:04:27] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[13:06:27] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[13:08:27] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[13:10:27] [Server thread/INFO]: [米奇淼淼屋]  如有遇意外或有疑问,请联系腐竹QQ:1872557359 
+[13:12:27] [Server thread/INFO]: [米奇淼淼屋]  欢迎来到www.MickeyMiao.top-米奇淼淼屋 
+[13:14:27] [Server thread/INFO]: [米奇淼淼屋]  本服务器QQ群号为:595279476 
+[13:14:55] [Server thread/INFO]: Stopping the server
+[13:14:55] [Server thread/INFO]: Stopping server
+[13:14:55] [Server thread/INFO]: [RichAutoMessage] Disabling RichAutoMessage v1.3.7
+[13:14:55] [Server thread/INFO]: [公告插件] 由 Fabian
+[13:14:55] [Server thread/INFO]: [公告插件] 插件版本: 1.3.8
+[13:14:55] [Server thread/INFO]: [公告插件] 停用
+[13:14:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.10
+[13:14:55] [Server thread/INFO]: Saving players
+[13:14:55] [Server thread/INFO]: Saving worlds
+[13:14:55] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:14:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[13:14:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
